@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  max-height: 1200px;
+  height: 100%;
+  width: 100%;
+  background-color: #272643;
+  padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 14px;
+
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:#272643;
+  height: 100%;
+  width: 100%;
+
+}
+
+.footer{
+margin-top: 10px;
+}
