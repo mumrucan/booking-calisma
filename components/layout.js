@@ -10,7 +10,7 @@ export default function Layout({ children }) {
       <div className={styles.container}>
         <Navigation className={styles.nav}/>
         <Head>
-          <title>Enes Eryılmaz | Anasır Deri</title>
+          <title>StudentsBooking - Housing and Experience</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"
